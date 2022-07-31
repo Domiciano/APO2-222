@@ -1,6 +1,7 @@
 <img width="256" src="https://www.icesi.edu.co/launiversidad/images/La_universidad/logo_icesi.png">
 
 # Algoritmos y programación 2
+Este es el repositorio del curso. Ejemplos de código, acceso a videos, etc. serán accesibles desde aquí.
 
 
 ### Organización
