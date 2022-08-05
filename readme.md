@@ -10,3 +10,8 @@ Este es el repositorio del curso. Ejemplos de código, acceso a videos, etc. ser
 
 ### Chat
 <a href="https://chat.whatsapp.com/HhYUeXBSu8NHTn0re1up7y">Grupo de Whatsapp del curso</a>
+
+### LABS
+
+<a href="https://docs.google.com/document/d/1qcC1N91szG6L-WkHvehqx9aSkNefFbyf/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 1</a><br>
+No Calificable
