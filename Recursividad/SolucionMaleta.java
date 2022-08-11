@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class SolucionMaleta {
+    
+    //La solución tiene un caso que no funciona, está en reparación
 
     public static void main(String[] args) {
         int[] objetos = new int[]{3, 3, 50, 200, 3, 200, 100, 3};
