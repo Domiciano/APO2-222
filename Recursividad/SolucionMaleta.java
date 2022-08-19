@@ -3,12 +3,12 @@ package main;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class SolucionMaleta {
+public class Main {
 
     public static void main(String[] args) {
-        int[] objetos = new int[]{3, 3, 50, 200, 3, 200, 100, 3};
+        int[] objetos = new int[]{10, 10, 20, 50, 30, 70};
 
-        ArrayList<Integer> res = fun(objetos, new ArrayList<>(), 500);
+        ArrayList<Integer> res = fun(objetos, new ArrayList<>(), 100);
 
         if (res == null) {
             System.out.println("No hay solución");
@@ -45,17 +45,24 @@ public class SolucionMaleta {
         selectedObjects.add(objetos[0]);
         //Arrays.copyOfRange, permite crear un nuevo arreglo seleccionando un rango
         //Específicamente, lo que se está haciendo es eliminar el primer elemento del arreglo
-        ArrayList<Integer> res = fun(Arrays.copyOfRange(objetos, 1, objetos.length), selectedObjects, nuevoPeso);
-        //Si lo que retorna el algorimo recursivo es diferente de nulo, es porque se encontró una solución posible
-        if (res != null) {
-            return res;
-        }
-        //Si lo que retorna el algoritmo recursivo es nulo, es porque no encontró una solición posible
-        //entonces se remueve el último objeto insertado a la maleta y se prueba con el siguiente.
-        else {
-            selectedObjects.remove(selectedObjects.size() - 1);
-            return fun(Arrays.copyOfRange(objetos, 1, objetos.length), selectedObjects, pesoRestante );
+
+
+        if(nuevoPeso == 0){
+            return selectedObjects;
+        }else{
+            ArrayList<Integer> res = fun(Arrays.copyOfRange(objetos, 1, objetos.length), selectedObjects, nuevoPeso);
+            //Si lo que retorna el algorimo recursivo es diferente de nulo, es porque se encontró una solución posible
+            if (res != null) {
+                return res;
+            }
+            //Si lo que retorna el algoritmo recursivo es nulo, es porque no encontró una solición posible
+            //entonces se remueve el último objeto insertado a la maleta y se prueba con el siguiente.
+            else {
+                selectedObjects.remove(selectedObjects.size() - 1);
+                return fun(Arrays.copyOfRange(objetos, 1, objetos.length), selectedObjects, pesoRestante );
+            }
         }
 
     }
+
 }
