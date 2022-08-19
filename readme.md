@@ -25,3 +25,8 @@ No Calificable
 
 <a href="https://docs.google.com/document/d/186DzTB2-PA7GhjMWYUkuaSootTqBRpqY/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 2</a><br>
 No Calificable
+
+
+<a href="https://docs.google.com/document/d/1qng8YUFV6-y5nxb7ShzE0yTRE72ebPHZ/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB #</a><br>
+Calificable
+
