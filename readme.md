@@ -11,7 +11,22 @@ Este es el repositorio del curso. Ejemplos de código, acceso a videos, etc. ser
 ### Chat
 <a href="https://chat.whatsapp.com/HhYUeXBSu8NHTn0re1up7y">Grupo de Whatsapp del curso</a>
 
+
+### TI1
+
+<a href="https://docs.google.com/document/d/1WwF2jyW8jQ71j_gNXPWo1YTc1XTe3mqA/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">Tarea integradora 1</a><br>
+
+
 ### LABS
 
 <a href="https://docs.google.com/document/d/1qcC1N91szG6L-WkHvehqx9aSkNefFbyf/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 1</a><br>
 No Calificable
+
+
+<a href="https://docs.google.com/document/d/186DzTB2-PA7GhjMWYUkuaSootTqBRpqY/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 2</a><br>
+No Calificable
+
+
+<a href="https://docs.google.com/document/d/1qng8YUFV6-y5nxb7ShzE0yTRE72ebPHZ/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 3</a><br>
+Calificable
+
