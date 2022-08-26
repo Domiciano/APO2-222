@@ -2,6 +2,8 @@ public class Node {
 
     private int value;
 
+    //DATOS
+
     //Enlaces
     private Node left;
     private Node right;
