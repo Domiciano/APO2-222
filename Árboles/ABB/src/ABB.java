@@ -90,7 +90,7 @@ public class ABB {
             //3. Nodo solo hijo derecho
             else if(current.getLeft() == null){
                 if(current == root){
-                    root = current.getLeft();
+                    root = current.getRight();
                 }
                 return current.getRight();
             }
