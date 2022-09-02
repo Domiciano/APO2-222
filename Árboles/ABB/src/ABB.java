@@ -82,10 +82,16 @@ public class ABB {
             }
             //2. Nodo solo hijo izquierdo
             else if (current.getRight() == null){
+                if(current == root){
+                    root = current.getLeft();
+                }
                 return current.getLeft();
             }
             //3. Nodo solo hijo derecho
             else if(current.getLeft() == null){
+                if(current == root){
+                    root = current.getLeft();
+                }
                 return current.getRight();
             }
             //4. Nodo con dos hijos
