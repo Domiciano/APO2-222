@@ -12,6 +12,11 @@ Este es el repositorio del curso. Ejemplos de código, acceso a videos, etc. ser
 <a href="https://chat.whatsapp.com/HhYUeXBSu8NHTn0re1up7y">Grupo de Whatsapp del curso</a>
 
 
+### Formato de test
+<a href="https://docs.google.com/document/d/1pmCE3p_sOByplPq3sx8I4OkXnmm1pZ-M/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">Formato de test 2022</a>
+
+
+
 ### TI1
 
 <a href="https://docs.google.com/document/d/1WwF2jyW8jQ71j_gNXPWo1YTc1XTe3mqA/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">Tarea integradora 1</a><br>
