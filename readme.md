@@ -42,3 +42,6 @@ Calificable
 
 <a href="https://docs.google.com/document/d/1BtqeqvfCFtvPijYj7C-W6VNdB4yYjOl5/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 7</a><br>
 Calificable
+
+<a href="https://docs.google.com/document/d/1QDxqAB-k3LODAki08N1k_MSi53n6f5Sx/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 8</a><br>
+
