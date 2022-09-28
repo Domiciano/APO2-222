@@ -21,6 +21,9 @@ Este es el repositorio del curso. Ejemplos de código, acceso a videos, etc. ser
 
 <a href="https://docs.google.com/document/d/1WwF2jyW8jQ71j_gNXPWo1YTc1XTe3mqA/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">Tarea integradora 1</a><br>
 
+### TI2
+
+<a href="https://docs.google.com/document/d/1x95y9z5PnUrgyZtNpv7EX1MqiCNKfRcO/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">Tarea integradora 2</a><br>
 
 ### LABS
 
