@@ -50,3 +50,7 @@ Calificable
 
 <a href="https://docs.google.com/document/d/1UTRJfOzjR5NNhI-xNWRYm4xMsD8N0xV8/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 9</a><br>
 Calificable
+
+<a href="https://docs.google.com/document/d/1xUIw6F2ck6ml61uEmV1XmJ3mceziqw7B/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 10</a><br>
+NO Calificable
+
