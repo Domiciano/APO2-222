@@ -55,11 +55,12 @@ Calificable
 NO Calificable
 
 
-<a href="https://docs.google.com/document/d/1FfUCxlT5mgi2m6cNdk8oCsxYwJ2yovAE/edit">LAB 11</a><br>
-NO Calificable
+
 
 
 
 <a href="https://vjudge.net/contest/520719">LAB 11</a><br>
 NO Calificable
 
+<a href="https://docs.google.com/document/d/1FfUCxlT5mgi2m6cNdk8oCsxYwJ2yovAE/edit">LAB 12</a><br>
+NO Calificable
