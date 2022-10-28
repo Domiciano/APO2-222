@@ -64,3 +64,6 @@ NO Calificable
 
 <a href="https://docs.google.com/document/d/1FfUCxlT5mgi2m6cNdk8oCsxYwJ2yovAE/edit">LAB 12</a><br>
 NO Calificable
+
+<a href="https://docs.google.com/document/d/1liludmYfqklt-3WmS2UpE3aIgBcD-ZGK/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 13</a><br>
+Calificable
