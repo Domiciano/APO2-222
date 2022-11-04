@@ -25,6 +25,10 @@ Este es el repositorio del curso. Ejemplos de código, acceso a videos, etc. ser
 
 <a href="https://docs.google.com/document/d/1x95y9z5PnUrgyZtNpv7EX1MqiCNKfRcO/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">Tarea integradora 2</a><br>
 
+### TI3
+
+<a href="https://docs.google.com/document/d/1n55R6Uadu6-TDKYs-F0WjMfagunUplHK/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">Tarea integradora 3</a><br>
+
 ### LABS
 
 <a href="https://docs.google.com/document/d/1qcC1N91szG6L-WkHvehqx9aSkNefFbyf/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 1</a><br>
