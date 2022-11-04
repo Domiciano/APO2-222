@@ -68,5 +68,5 @@ NO Calificable
 <a href="https://docs.google.com/document/d/1liludmYfqklt-3WmS2UpE3aIgBcD-ZGK/edit?usp=sharing&ouid=117897710133227559254&rtpof=true&sd=true">LAB 13</a><br>
 Calificable
 
-<a href="https://docs.google.com/document/d/1CKUgDok1zfnk7_c06RAfgFPuxlahVUrkV5gyuHmlgGc/edit?usp=sharing">LAB 1$</a><br>
+<a href="https://docs.google.com/document/d/1CKUgDok1zfnk7_c06RAfgFPuxlahVUrkV5gyuHmlgGc/edit?usp=sharing">LAB 14</a><br>
 NO Calificable
